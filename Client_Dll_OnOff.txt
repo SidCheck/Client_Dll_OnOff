@@ -1,7 +1,7 @@
-Panel_Zone = 0
-XerifeDev = 0
+Panel_Zone = 1
+XerifeDev = 1
 XerifeDevSniper = 0
-Panel_0.9 = 0
-Panel_0.9 = F0ree
-Siyam = 0
-Riaz = 0
+Panel_0.9 = 1
+Panel_0.9 = Free
+Siyam = 1
+Riaz = 1
