@@ -6,3 +6,4 @@ Panel_0.9_Sniper = 1
 Panel_0.9 = Free
 Siyam = 1
 Riaz = 1
+SASI_Sniper_Cmd = 1
