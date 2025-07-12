@@ -8,4 +8,4 @@ Siyam = 1
 Riaz = 1
 SASI_Sniper_Cmd_V2 = 1
 Neck_F8_Free= 1
-Siyam_Neck_V1 = 10
+Siyam_Neck_V1 = 1
