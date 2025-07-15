@@ -6,6 +6,6 @@ Panel_0.9_Sniper = 1
 Panel_0.9 = F1ree
 Siyam = 1
 Riaz = 1
-SASI_Sniper_Cmd_V2 = 1
+SASI_Sniper_Cmd_V3 = 1
 Neck_F8_Free= 1
 Siyam_Neck_V1 = 1
