@@ -1,6 +1,7 @@
 Panel_Zone = 1
 XerifeDev = 1
 XerifeDevSniper_V2 = 1
+Xerife_Drag_Left_Neck_V2 = 1
 Panel_0.9 = 1
 Panel_0.9_Sniper = 1
 Panel_0.9 = F1ree
