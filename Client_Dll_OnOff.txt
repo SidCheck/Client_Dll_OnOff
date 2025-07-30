@@ -13,6 +13,6 @@ Siyam_Left_Neck_V2 = 0
 Panel_0.9_Neck = 0
 Panel_0.9_Drag = 0
 Panel_0.9_Neck_Ob50_V2 = 1
-Xerife_Neck_Ob50_V1 = 1
+Xerife_Neck_Ob50_V2 = 1
 Panel_0.9_Neck_Ob50_Free = 1
 
