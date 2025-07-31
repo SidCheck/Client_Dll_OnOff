@@ -15,5 +15,5 @@ Panel_0.9_Drag = 0
 Panel_0.9_Neck_Ob50_V2 = 1
 Xerife_Neck_Ob50_V2 = 1
 Panel_0.9_Neck_Ob50_Free = 1
-Riazf_External_Ob50 = 1
+Riaz_External_Ob50 = 1
 
