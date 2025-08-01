@@ -20,5 +20,6 @@ Panel_0.9_Neck_Ob50_Free_V1 = 1
 Panel_0.9_Neck_Ob50_Free_V2 = 1
 Riaz_External_Ob50 = 1
 Neck_Sid_Ob50 = 1
+Ahad_Ob50_External = 1
 
 
