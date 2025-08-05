@@ -1,8 +1,8 @@
-Panel_Zone_Neck_Ob50_v1 = 00
-Panel_Zone_Neck_Ob50_v2 = 00
+Panel_Zone_Neck_Ob50_v1 = 1
+Panel_Zone_Neck_Ob50_v2 = 1
 XerifeDev = 0
 XerifeDevSniper_V2 = 0
-Xerife_Drag_Left_Neck_Ob50_V1 = 00
+Xerife_Drag_Left_Neck_Ob50_V1 = 1
 Panel_0.9 = 0
 Panel_0.9_Sniper = 0
 Panel_0.9 = F1ree
@@ -13,15 +13,16 @@ Neck_F8_Free= 0
 Siyam_Left_Neck_V2 = 0
 Panel_0.9_Neck = 0
 Panel_0.9_Drag = 0
-Panel_0.9_Neck_Ob50_V2 = 00
-Panel_0.9_Neck_Ob50_V3 = 00
-Xerife_Neck_Ob50_V2 = 00
-Panel_0.9_Neck_Ob50_Free_V1 = 00
-Panel_0.9_Neck_Ob50_Free_V2 = 00
-Riaz_External_Ob50 = 00
+Panel_0.9_Neck_Ob50_V2 = 1
+Panel_0.9_Neck_Ob50_V3 = 1
+Xerife_Neck_Ob50_V2 = 1
+Panel_0.9_Neck_Ob50_Free_V1 = 1
+Panel_0.9_Neck_Ob50_Free_V2 = 1
+Riaz_External_Ob50 = 1
 Neck_Sid_Ob50 = 1
 Ahad_Ob50_External = 1
 Sasi_Ob50_External = 1
+
 
 
 
