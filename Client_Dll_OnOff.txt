@@ -19,9 +19,10 @@ Xerife_Neck_Ob50_V2 = 00
 Panel_0.9_Neck_Ob50_Free_V1 = 00
 Panel_0.9_Neck_Ob50_Free_V2 = 00
 Riaz_External_Ob50 = 00
-Neck_Sid_Ob50 = 00
+Neck_Sid_Ob50 = 1
 Ahad_Ob50_External = 1
 Sasi_Ob50_External = 1
+
 
 
 
