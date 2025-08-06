@@ -15,6 +15,7 @@ Panel_0.9_Neck = 0
 Panel_0.9_Drag = 0
 Panel_0.9_Neck_Ob50_V2 = 1
 Panel_0.9_Neck_Ob50_V3 = 1
+Panel_0.9_Neck_Ob50_V4 = 1
 Xerife_Neck_Ob50_V2 = 1
 Panel_0.9_Neck_Ob50_Free_V1 = 1
 Panel_0.9_Neck_Ob50_Free_V2 = 1
@@ -22,6 +23,7 @@ Riaz_External_Ob50 = 1
 Neck_Sid_Ob50 = 1
 Ahad_Ob50_External = 1
 Sasi_Ob50_External = 1
+
 
 
 
