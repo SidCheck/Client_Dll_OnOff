@@ -26,11 +26,12 @@ Riaz_External_Ob50 = 1
 Neck_Sid_Ob50 = 00
 Ahad_Ob50_External = 1
 Sasi_Ob50_External = 1
-Panel_0.9_Neck_Sam_88_84 = 1
-Panel_0.9_Left_Neck_Sam_88_84 = 1
+Panel_0.9_Neck_88_84 = 1
+Panel_0.9_Left_Neck_B4_84 = 1
+Panel_0.9_Right_Neck_B8_84 = 1
 Panel_0.9_Right-Neck_Sam_88_84 = 1
-Xerife_Neck = 1
-Xerife_Left_Neck = 1
+Xerife_Neck_88_84 = 1
+Xerife_Neck_B4_84 = 1
 
 
 
