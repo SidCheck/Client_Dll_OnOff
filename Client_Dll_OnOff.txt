@@ -33,3 +33,5 @@ Panel_0.9_Right-Neck_Sam_88_84 = 1
 Xerife_Neck_88_84 = 1
 Xerife_Left_Neck_B4_84 = 1
 Neck_Sid_88_84 = 1
+Panel_0.9_Neck_88_84_Only_F8 = 1
+
