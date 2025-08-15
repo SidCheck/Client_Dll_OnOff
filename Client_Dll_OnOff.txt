@@ -12,7 +12,7 @@ Panel_0.9 = F1ree
 Siyam = 0
 Riaz = 0
 SASI_Sniper_Cmd_V3 = 0
-Siyam_Left_Neck_V5 = 0
+Siyam_Left_Neck_Ac_A8 = 1
 Panel_0.9_Neck = 0
 Panel_0.9_Drag = 0
 Panel_0.9_Neck_Ob50_V2 = 00
@@ -35,3 +35,4 @@ Panel_0.9_Neck_88_84_Only_F8 = 1
 Neck_Sid_Ac_A8 = 1
 Panel_Neck_Ac_A8 = 1
 Ryd_External_Sniper_V1 = 1
+
