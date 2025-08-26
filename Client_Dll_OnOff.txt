@@ -1,7 +1,7 @@
 Panel_Zone_Neck_Ob50_v1 = 0
 Panel_Zone_Neck_Ob50_v2 = 0
 Panel_Zone_External_Ob50_v1 = 1
-XerifeDev = 0
+XerifeDev = 1
 XerifeDevSniper_V2 = 1
 Xerife_Drag_Left_Neck_Ob50_V1 = 00
 Xerife_Neck_Ob50_V2 = 00
@@ -37,5 +37,6 @@ Neck_Sid_Ac_A8 = 1
 Panel_Neck_Ac_A8 = 1
 Ryd_External_Sniper_V1 = 1
 Fake_Lag_0.9 = 1
+
 
 
