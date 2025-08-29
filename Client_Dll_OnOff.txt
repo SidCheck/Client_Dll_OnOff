@@ -37,6 +37,3 @@ Neck_Sid_Ac_A8 = 1
 Panel_Neck_Ac_A8 = 1
 Ryd_External_Sniper_V1 = 1
 Fake_Lag_0.9 = 1
-
-
-
