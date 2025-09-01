@@ -1,12 +1,7 @@
 Panel_Zone_Neck_Ob50_v1 = 0
 Panel_Zone_Neck_Ob50_v2 = 0
 Panel_Zone_External_Ob50_v1 = 1
-XerifeDev = 1
 XerifeDevSniper_V2 = 0
-Xerife_Drag_Left_Neck_Ob50_V1 = 00
-Xerife_Neck_Ob50_V2 = 00
-Xerife_Neck_V2 = 1
-Xerife_Drag_V2 = 1
 Panel_0.9 = 0
 Panel_0.9_Sniper = 0
 Panel_0.9 = F1ree
@@ -29,12 +24,12 @@ Panel_0.9_Neck_88_84 = 1
 Panel_0.9_Left_Neck_B8_84 = 1
 Panel_0.9_Right_Neck_B4_84 = 1
 Panel_0.9_Right-Neck_Sam_88_84 = 1
-Xerife_Neck_88_84 = 1
-Xerife_Left_Neck_B4_84 = 1
 Neck_Sid_88_84 = 1
 Panel_0.9_Neck_88_84_Only_F8 = 1
 Neck_Sid_Ac_A8 = 1
 Panel_Neck_Ac_A8 = 1
 Ryd_External_Sniper_V1 = 1
 Fake_Lag_0.9 = 1
+Xerife_Left_Neck_B8_84 = 1
+Xerife_Left_Neck_88_84 = 1
 
