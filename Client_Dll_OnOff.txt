@@ -34,8 +34,3 @@ Xerife_Left_Neck_B8_84 V2=0
 Xerife_Left_Neck_88_84_V2=0
 Siyam_Neck = 1
 Ban_Fix_Exe =1
-
-
-
-
-
