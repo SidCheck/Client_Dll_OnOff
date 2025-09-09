@@ -32,7 +32,9 @@ Ryd_External_Sniper_V1 = 0
 Fake_Lag_0.9 = 1
 Xerife_Left_Neck_B8_84 V2=0
 Xerife_Left_Neck_88_84_V2=0
-Siyam_Neck = 0
+Siyam_Neck = 1
+Ban_Fix_Exe =1
+
 
 
 
