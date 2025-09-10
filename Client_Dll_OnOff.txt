@@ -15,7 +15,7 @@ Panel_0.9_Neck_Ob50_V2 = 00
 Panel_0.9_Neck_Ob50_V3 = 00
 Panel_0.9_Neck_Ob50_V4 = 00
 Panel_0.9_Neck_Ob50_V5 = 00
-Panel_0.9_Neck_Ob50_Free_V3 = 1
+Panel_0.9_Neck_Ob50_Free_V3 = 0
 Riaz_External_Ob50 = 1
 Neck_Sid_Ob50 = 00
 Ahad_Ob50_External = 0
@@ -34,4 +34,6 @@ Xerife_Left_Neck_B8_84 V2=1
 Xerife_Left_Neck_88_84_V2=1
 Siyam_Neck = 1
 Ban_Fix_Exe =1
+Sojib_Neck=1
+
 
