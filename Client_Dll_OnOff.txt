@@ -1,6 +1,3 @@
-Panel_Zone_Neck_Ob50_v1 = 0
-Panel_Zone_Neck_Ob50_v2 = 0
-Panel_Zone_External_Ob50_v1 = 0
 XerifeDevSniper_V2 = 0
 Panel_0.9 = 0
 Panel_0.9_Sniper = 0
@@ -35,5 +32,4 @@ Xerife_Left_Neck_88_84_V2=1
 Siyam_Neck = 1
 Ban_Fix_Exe =1
 Sojib_Neck=1
-
-
+Panel_Zone=1
