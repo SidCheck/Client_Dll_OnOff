@@ -33,3 +33,4 @@ Siyam_Neck = 1
 Ban_Fix_Exe =1
 Sojib_Neck=1
 Panel_Zone=1
+Neck_Sid_AA_A6 = 1
