@@ -37,4 +37,6 @@ Neck_Sid_AA_A6 = 1
 PANEL ZONE 2.0 = 1
 OnlyMaleNeck = 1
 Neck_0x88_0x84 = 1
+Left_Neck_0xB8_0x84 = 1
+
 
