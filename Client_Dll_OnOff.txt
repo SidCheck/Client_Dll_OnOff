@@ -39,3 +39,5 @@ OnlyMaleNeck = 1
 Neck_0x88_0x84 = 1
 Left_Neck_0xB8_0x84 = 1
 Neck_0x88_0x84_Panel_0.9 = 1
+Panel_0.9_Ob51_Neck = 1
+
