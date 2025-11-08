@@ -41,4 +41,5 @@ Left_Neck_0xB8_0x84 = 0
 Neck_0x88_0x84_Panel_0.9 = 0
 Panel_0.9_Ob51_Neck = 0
 Panel_0.9_Ob51_Neck_Free = 0
+F0_2C4 = 1
 
