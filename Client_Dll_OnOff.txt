@@ -1,1 +1,2 @@
 External_Streamer_Ob51_Neck_96_92 = 1
+32Bit_Emulator = 1
